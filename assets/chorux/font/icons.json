@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "chorux:font/icons/message.png",
+            "height": 16,
+            "ascent": 14,
+            "chars": [ "a" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chorux:font/icons/danger.png",
+            "height": 16,
+            "ascent": 14,
+            "chars": [ "b" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chorux:font/icons/up.png",
+            "height": 16,
+            "ascent": 14,
+            "chars": [ "c" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chorux:font/icons/down.png",
+            "height": 16,
+            "ascent": 14,
+            "chars": [ "d" ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chorux:font/icons/trophey.png",
+            "height": 16,
+            "ascent": 14,
+            "chars": [ "e" ]
+        }
+    ]
+}
