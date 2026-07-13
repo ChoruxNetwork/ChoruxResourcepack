@@ -1,0 +1,17 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1000,
+        "model": {"type": "model","model": "chorux:item/block/portal","tints": [{"type": "minecraft:dye","default": [1,1,1]}]}
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/leather_horse_armor"
+    }
+  },
+  "oversized_in_gui": true
+}
