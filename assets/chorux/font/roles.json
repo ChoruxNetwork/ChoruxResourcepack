@@ -1,0 +1,100 @@
+{
+    "providers": [
+        {
+            "type": "bitmap", "file": "chorux:font/roles/admin.png",
+            "height": 10, "ascent": 9, "chars": [ "a" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/advent.png",
+            "height": 10, "ascent": 9, "chars": [ "b" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/architect.png",
+            "height": 10, "ascent": 9, "chars": [ "c" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/builder.png",
+            "height": 10, "ascent": 9, "chars": [ "d" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/creator.png",
+            "height": 10, "ascent": 9, "chars": [ "e" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/debugger.png",
+            "height": 10, "ascent": 9, "chars": [ "f" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/developer.png",
+            "height": 10, "ascent": 9, "chars": [ "g" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/helper.png",
+            "height": 10, "ascent": 9, "chars": [ "h" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/horizon.png",
+            "height": 10, "ascent": 9, "chars": [ "i" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/jrbuilder.png",
+            "height": 10, "ascent": 9, "chars": [ "j" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/jrtester.png",
+            "height": 10, "ascent": 9, "chars": [ "k" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/media.png",
+            "height": 10, "ascent": 9, "chars": [ "l" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/moder.png",
+            "height": 10, "ascent": 9, "chars": [ "m" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/nocturne.png",
+            "height": 10, "ascent": 9, "chars": [ "n" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/oblivion.png",
+            "height": 10, "ascent": 9, "chars": [ "o" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/player.png",
+            "height": 10, "ascent": 9, "chars": [ "p" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/orfeus.png",
+            "height": 10, "ascent": 9, "chars": [ "q" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/selection.png",
+            "height": 10, "ascent": 9, "chars": [ "r" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/shiro.png",
+            "height": 10, "ascent": 9, "chars": [ "s" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/smm.png",
+            "height": 10, "ascent": 9, "chars": [ "t" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/support.png",
+            "height": 10, "ascent": 9, "chars": [ "u" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/vesper.png",
+            "height": 10, "ascent": 9, "chars": [ "v" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/warden.png",
+            "height": 10, "ascent": 9, "chars": [ "w" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/vortex.png",
+            "height": 10, "ascent": 9, "chars": [ "x" ]
+        }
+    ]
+}
