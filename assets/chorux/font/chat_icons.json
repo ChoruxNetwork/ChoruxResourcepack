@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/clan_chat.png",
+            "height": 8, "ascent": 7, "chars": [ "a" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/donate_chat.png",
+            "height": 8, "ascent": 7, "chars": [ "b" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/global_chat.png",
+            "height": 8, "ascent": 7, "chars": [ "c" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/green_warning.png",
+            "height": 8, "ascent": 7, "chars": [ "d" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/info.png",
+            "height": 8, "ascent": 7, "chars": [ "e" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/local_chat.png",
+            "height": 8, "ascent": 7, "chars": [ "f" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/red_warning.png",
+            "height": 8, "ascent": 7, "chars": [ "g" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/staff_chat.png",
+            "height": 8, "ascent": 7, "chars": [ "h" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/yellow_warning.png",
+            "height": 8, "ascent": 7, "chars": [ "i" ]
+        }
+    ]
+}
