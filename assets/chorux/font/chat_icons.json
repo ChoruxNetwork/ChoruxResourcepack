@@ -35,6 +35,22 @@
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/yellow_warning.png",
             "height": 8, "ascent": 7, "chars": [ "i" ]
+        },
+            {
+            "type": "bitmap", "file": "chorux:font/chat_icons/agree.png",
+            "height": 8, "ascent": 7, "chars": [ "j" ]
+        },
+            {
+            "type": "bitmap", "file": "chorux:font/chat_icons/disagree.png",
+            "height": 8, "ascent": 7, "chars": [ "k" ]
+        },
+            {
+            "type": "bitmap", "file": "chorux:font/chat_icons/right_click.png",
+            "height": 8, "ascent": 7, "chars": [ "l" ]
+        },
+                {
+            "type": "bitmap", "file": "chorux:font/chat_icons/left_click.png",
+            "height": 8, "ascent": 7, "chars": [ "m" ]
         }
     ]
 }

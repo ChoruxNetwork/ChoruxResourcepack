@@ -1,0 +1,25 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "chorux:font/backgrounds/telegram.png",
+      "height": 14,
+      "ascent": 6,
+      "chars": ["a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/backgrounds/discord.png",
+      "height": 14,
+      "ascent": 6,
+      "chars": ["b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/backgrounds/site.png",
+      "height": 14,
+      "ascent": 6,
+      "chars": ["c"]
+    }
+  ]
+}
