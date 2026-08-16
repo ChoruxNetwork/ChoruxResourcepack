@@ -51,6 +51,10 @@
                 {
             "type": "bitmap", "file": "chorux:font/chat_icons/left_click.png",
             "height": 8, "ascent": 7, "chars": [ "m" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/coin8x.png",
+            "height": 8, "ascent": 7, "chars": [ "n" ]
         }
     ]
 }
