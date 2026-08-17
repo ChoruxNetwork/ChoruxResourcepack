@@ -1,0 +1,46 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/donate_menu.png",
+      "height": 256,
+      "ascent": 14,
+      "chars": ["a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/donate_privilege.png",
+      "height": 256,
+      "ascent": 14,
+      "chars": ["b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/donate_rangs.png",
+      "height": 256,
+      "ascent": 14,
+      "chars": ["c"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/donate_menu2.png",
+      "height": 256,
+      "ascent": 14,
+      "chars": ["e"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/donate_coins.png",
+      "height": 256,
+      "ascent": 14,
+      "chars": ["f"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/donate_items.png",
+      "height": 256,
+      "ascent": 14,
+      "chars": ["d"]
+    }
+  ]
+}

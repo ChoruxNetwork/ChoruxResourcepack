@@ -1,0 +1,40 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "cases": [
+      {
+        "when": "spongebob_star",
+        "model": {
+          "type": "minecraft:model",
+          "model": "chorux:item/spongebobstar_model"
+        }
+      },
+      {
+        "when": "patrick_star",
+        "model": {
+          "type": "minecraft:model",
+          "model": "chorux:item/patrickstar_model"
+        }
+      },
+      {
+        "when": "coin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "chorux:item/coin_model"
+        }
+      },
+      {
+        "when": "void",
+        "model": {
+          "type": "minecraft:model",
+          "model": "chorux:item/void_model"
+        }
+      }
+    ]
+  }
+}
