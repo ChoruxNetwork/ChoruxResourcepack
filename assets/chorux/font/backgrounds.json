@@ -3,7 +3,7 @@
     {
       "type": "bitmap",
       "file": "chorux:font/backgrounds/telegram.png",
-      "height": 7,
+      "height": 14,
       "ascent": 6,
       "chars": ["a"]
     },

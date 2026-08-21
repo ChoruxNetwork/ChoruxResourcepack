@@ -4,7 +4,7 @@
       "type": "bitmap",
       "file": "chorux:font/gui/donate_menu.png",
       "height": 256,
-      "ascent": 14,
+      "ascent": 16,
       "chars": ["a"]
     },
     {
@@ -18,14 +18,14 @@
       "type": "bitmap",
       "file": "chorux:font/gui/donate_rangs.png",
       "height": 256,
-      "ascent": 14,
+      "ascent": 50,
       "chars": ["c"]
     },
     {
       "type": "bitmap",
       "file": "chorux:font/gui/donate_menu2.png",
       "height": 256,
-      "ascent": 14,
+      "ascent": 50,
       "chars": ["e"]
     },
     {
@@ -39,8 +39,42 @@
       "type": "bitmap",
       "file": "chorux:font/gui/donate_items.png",
       "height": 256,
-      "ascent": 14,
+      "ascent": 50,
       "chars": ["d"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/generic_18.png",
+      "height": 256,
+      "ascent": 16,
+      "chars": ["h"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/mode_list_1_dev_center.png",
+      "height": 256,
+      "ascent": 16,
+      "chars": ["i"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/mode_list_1_dev_right.png",
+      "height": 256,
+      "ascent": 16,
+      "chars": ["j"]
+    },
+    {
+      "type": "bitmap",
+      "file": "chorux:font/gui/mode_list_2_dev.png",
+      "height": 256,
+      "ascent": 16,
+      "chars": ["k"]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "g": -0.96
+      }
     }
   ]
 }
