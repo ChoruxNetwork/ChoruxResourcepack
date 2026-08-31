@@ -2,59 +2,99 @@
     "providers": [
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/clan_chat.png",
-            "height": 8, "ascent": 7, "chars": [ "a" ]
+            "height": 8, "ascent": 7, "chars": ["a"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/donate_chat.png",
-            "height": 8, "ascent": 7, "chars": [ "b" ]
+            "height": 8, "ascent": 7, "chars": ["b"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/global_chat.png",
-            "height": 8, "ascent": 7, "chars": [ "c" ]
+            "height": 8, "ascent": 7, "chars": ["c"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/green_warning.png",
-            "height": 8, "ascent": 7, "chars": [ "d" ]
+            "height": 8, "ascent": 7, "chars": ["d"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/info.png",
-            "height": 8, "ascent": 7, "chars": [ "e" ]
+            "height": 8, "ascent": 7, "chars": ["e"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/local_chat.png",
-            "height": 8, "ascent": 7, "chars": [ "f" ]
+            "height": 8, "ascent": 7, "chars": ["f"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/red_warning.png",
-            "height": 8, "ascent": 7, "chars": [ "g" ]
+            "height": 8, "ascent": 7, "chars": ["g"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/staff_chat.png",
-            "height": 8, "ascent": 7, "chars": [ "h" ]
+            "height": 8, "ascent": 7, "chars": ["h"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/yellow_warning.png",
-            "height": 8, "ascent": 7, "chars": [ "i" ]
+            "height": 8, "ascent": 7, "chars": ["i"]
         },
-            {
+        {
             "type": "bitmap", "file": "chorux:font/chat_icons/agree.png",
-            "height": 8, "ascent": 7, "chars": [ "j" ]
+            "height": 8, "ascent": 7, "chars": ["j"]
         },
-            {
+        {
             "type": "bitmap", "file": "chorux:font/chat_icons/disagree.png",
-            "height": 8, "ascent": 7, "chars": [ "k" ]
+            "height": 8, "ascent": 7, "chars": ["k"]
         },
-            {
+        {
             "type": "bitmap", "file": "chorux:font/chat_icons/right_click.png",
-            "height": 8, "ascent": 7, "chars": [ "l" ]
+            "height": 8, "ascent": 7, "chars": ["l"]
         },
-                {
+        {
             "type": "bitmap", "file": "chorux:font/chat_icons/left_click.png",
-            "height": 8, "ascent": 7, "chars": [ "m" ]
+            "height": 8, "ascent": 7, "chars": ["m"]
         },
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/coin8x.png",
-            "height": 8, "ascent": 7, "chars": [ "n" ]
+            "height": 8, "ascent": 7, "chars": ["n"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/balance.png",
+            "height": 8, "ascent": 7, "chars": ["o"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/clan.png",
+            "height": 8, "ascent": 7, "chars": ["p"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/death.png",
+            "height": 8, "ascent": 7, "chars": ["q"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/kd.png",
+            "height": 8, "ascent": 7, "chars": ["r"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/kills.png",
+            "height": 8, "ascent": 7, "chars": ["s"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/level.png",
+            "height": 8, "ascent": 7, "chars": ["t"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/playtime.png",
+            "height": 8, "ascent": 7, "chars": ["u"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/pixel_nosplit.png",
+            "height": 8, "ascent": 7, "chars": ["v"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/sidebar_start.png",
+            "height": 32, "ascent": 7, "chars": ["w"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/sidebar_end.png",
+            "height": 32, "ascent": 7, "chars": ["x"]
         }
     ]
 }

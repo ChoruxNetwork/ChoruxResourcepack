@@ -1,0 +1,32 @@
+{
+    "providers": [
+        {
+            "type": "bitmap", "file": "chorux:font/logo/chorux.png",
+            "height": 24, "ascent": 10, "chars": [ "a" ]
+        },
+                {
+            "type": "bitmap", "file": "chorux:font/logo/chorux.png",
+            "height": 24, "ascent": 24, "chars": [ "c" ]
+        },
+                {
+            "type": "bitmap", "file": "chorux:font/logo/chorux_2.png",
+            "height": 24, "ascent": 24, "chars": [ "d" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/chorux_2.png",
+            "height": 24, "ascent": 10, "chars": [ "b" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/box_pvp.png",
+            "height": 16, "ascent": 16, "chars": [ "e" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/prison_neo.png",
+            "height": 16, "ascent": 16, "chars": [ "f" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/prison_evo.png",
+            "height": 16, "ascent": 16, "chars": [ "g" ]
+        }
+    ]
+}

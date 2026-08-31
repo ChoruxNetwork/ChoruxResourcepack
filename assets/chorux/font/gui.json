@@ -4,14 +4,14 @@
       "type": "bitmap",
       "file": "chorux:font/gui/donate_menu.png",
       "height": 256,
-      "ascent": 16,
+      "ascent": 68,
       "chars": ["a"]
     },
     {
       "type": "bitmap",
       "file": "chorux:font/gui/donate_privilege.png",
       "height": 256,
-      "ascent": 14,
+      "ascent": 16,
       "chars": ["b"]
     },
     {
@@ -32,7 +32,7 @@
       "type": "bitmap",
       "file": "chorux:font/gui/donate_coins.png",
       "height": 256,
-      "ascent": 14,
+      "ascent": 68,
       "chars": ["f"]
     },
     {

@@ -1,6 +1,23 @@
 ﻿{
   "pack": {
-    "description": "§7⏵§d ᴄʜᴏʀᴜx\n§7⏵§8 ʀᴇꜱᴏᴜʀꜱᴇᴘᴀᴄᴋ",
+    "description": [
+      {
+        "text": "⏵",
+        "color": "#777777"
+      },
+      {
+        "text": " ᴄʜᴏʀᴜx",
+        "color": "#AA66FF"
+      },
+      {
+        "text": "\n⏵",
+        "color": "#777777"
+      },
+      {
+        "text": " ʀᴇꜱᴏᴜʀꜱᴇᴘᴀᴄᴋ",
+        "color": "#AAAAAA"
+      }
+    ],
     "pack_format": 34,
     "supported_formats": {
       "max_inclusive": 64,
@@ -16,27 +33,21 @@
         "formats": {
           "max_inclusive": 99,
           "min_inclusive": 34
-        },
-        "max_format": 99,
-        "min_format": 34
+        }
       },
       {
         "directory": "1_21_3",
         "formats": {
           "max_inclusive": 99,
           "min_inclusive": 42
-        },
-        "max_format": 99,
-        "min_format": 42
+        }
       },
       {
         "directory": "1_21_6",
         "formats": {
           "max_inclusive": 99,
           "min_inclusive": 63
-        },
-        "max_format": 99,
-        "min_format": 63
+        }
       }
     ]
   }

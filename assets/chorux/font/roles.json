@@ -95,6 +95,10 @@
         {
             "type": "bitmap", "file": "chorux:font/roles/vortex.png",
             "height": 8, "ascent": 7, "chars": [ "x" ]
+        },
+                {
+            "type": "bitmap", "file": "chorux:font/roles/player.png",
+            "height": 8, "ascent": 7, "chars": [ "y" ]
         }
     ]
 }
