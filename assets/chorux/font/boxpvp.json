@@ -1,0 +1,36 @@
+{
+    "providers": [
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/spongebob.png",
+            "height": 8, "ascent": 7, "chars": [ "a" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/garry.png",
+            "height": 8, "ascent": 7, "chars": [ "b" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/patrick.png",
+            "height": 8, "ascent": 7, "chars": [ "c" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/squidward.png",
+            "height": 8, "ascent": 7, "chars": [ "d" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/sandy.png",
+            "height": 8, "ascent": 7, "chars": [ "e" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/mermaid.png",
+            "height": 8, "ascent": 7, "chars": [ "f" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/krabs.png",
+            "height": 8, "ascent": 7, "chars": [ "g" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/plankton.png",
+            "height": 8, "ascent": 7, "chars": [ "h" ]
+        }
+    ]
+}

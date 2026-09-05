@@ -99,6 +99,14 @@
                 {
             "type": "bitmap", "file": "chorux:font/roles/player.png",
             "height": 8, "ascent": 7, "chars": [ "y" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/npc.png",
+            "height": 8, "ascent": 7, "chars": [ "z" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles/npc2.png",
+            "height": 8, "ascent": 7, "chars": [ "1" ]
         }
     ]
 }
