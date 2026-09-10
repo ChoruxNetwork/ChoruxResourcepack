@@ -4,11 +4,11 @@
             "type": "bitmap", "file": "chorux:font/logo/chorux.png",
             "height": 24, "ascent": 10, "chars": [ "a" ]
         },
-                {
+        {
             "type": "bitmap", "file": "chorux:font/logo/chorux.png",
             "height": 24, "ascent": 24, "chars": [ "c" ]
         },
-                {
+        {
             "type": "bitmap", "file": "chorux:font/logo/chorux_2.png",
             "height": 24, "ascent": 24, "chars": [ "d" ]
         },
@@ -27,6 +27,42 @@
         {
             "type": "bitmap", "file": "chorux:font/logo/prison_evo.png",
             "height": 16, "ascent": 16, "chars": [ "g" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/boxpvp_balance_money.png",
+            "height": 20, "ascent": 7, "chars": [ "h" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/boxpvp_kills.png",
+            "height": 20, "ascent": 7, "chars": [ "i" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/boxpvp_deathes.png",
+            "height": 20, "ascent": 7, "chars": [ "j" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/boxpvp_kd.png",
+            "height": 20, "ascent": 7, "chars": [ "k" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/boxpvp_playtime.png",
+            "height": 20, "ascent": 7, "chars": [ "l" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/hub_online.png",
+            "height": 20, "ascent": 7, "chars": [ "m" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/hub_group.png",
+            "height": 20, "ascent": 7, "chars": [ "n" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/hub_nickname.png",
+            "height": 20, "ascent": 7, "chars": [ "o" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/hub_balance.png",
+            "height": 20, "ascent": 7, "chars": [ "p" ]
         }
     ]
 }

@@ -95,6 +95,62 @@
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/sidebar_end.png",
             "height": 32, "ascent": 7, "chars": ["x"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/online.png",
+            "height": 8, "ascent": 7, "chars": ["z"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/player.png",
+            "height": 8, "ascent": 7, "chars": ["1"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/crown.png",
+            "height": 8, "ascent": 7, "chars": ["2"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/up.png",
+            "height": 8, "ascent": 7, "chars": ["3"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/star.png",
+            "height": 8, "ascent": 7, "chars": ["4"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/ruby.png",
+            "height": 8, "ascent": 7, "chars": ["5"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/sword.png",
+            "height": 8, "ascent": 7, "chars": ["6"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/balance2.png",
+            "height": 8, "ascent": 7, "chars": ["7"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/balance3.png",
+            "height": 8, "ascent": 7, "chars": ["8"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/value.png",
+            "height": 8, "ascent": 7, "chars": ["9"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/player2.png",
+            "height": 8, "ascent": 7, "chars": ["0"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/up2.png",
+            "height": 8, "ascent": 7, "chars": ["A"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/dollar.png",
+            "height": 8, "ascent": 7, "chars": ["B"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/island.png",
+            "height": 8, "ascent": 7, "chars": ["C"]
         }
     ]
 }
