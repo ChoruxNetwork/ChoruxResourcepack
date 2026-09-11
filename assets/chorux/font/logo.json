@@ -18,15 +18,15 @@
         },
         {
             "type": "bitmap", "file": "chorux:font/logo/box_pvp.png",
-            "height": 16, "ascent": 16, "chars": [ "e" ]
+            "height": 13, "ascent": 13, "chars": [ "e" ]
         },
         {
             "type": "bitmap", "file": "chorux:font/logo/prison_neo.png",
-            "height": 16, "ascent": 16, "chars": [ "f" ]
+            "height": 13, "ascent": 13, "chars": [ "f" ]
         },
         {
             "type": "bitmap", "file": "chorux:font/logo/prison_evo.png",
-            "height": 16, "ascent": 16, "chars": [ "g" ]
+            "height": 13, "ascent": 13, "chars": [ "g" ]
         },
         {
             "type": "bitmap", "file": "chorux:font/logo/boxpvp_balance_money.png",
@@ -63,6 +63,30 @@
         {
             "type": "bitmap", "file": "chorux:font/logo/hub_balance.png",
             "height": 20, "ascent": 7, "chars": [ "p" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/prisonevo_balance.png",
+            "height": 20, "ascent": 7, "chars": [ "q" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/prisonevo_blocks.png",
+            "height": 20, "ascent": 7, "chars": [ "r" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/prisonevo_kills.png",
+            "height": 20, "ascent": 7, "chars": [ "s" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/prisonevo_level.png",
+            "height": 20, "ascent": 7, "chars": [ "t" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/prisonevo_shards.png",
+            "height": 20, "ascent": 7, "chars": [ "u" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/logo/prisonevo_quest.png",
+            "height": 20, "ascent": 7, "chars": [ "v" ]
         }
     ]
 }

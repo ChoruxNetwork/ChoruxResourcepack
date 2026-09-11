@@ -151,6 +151,14 @@
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/island.png",
             "height": 8, "ascent": 7, "chars": ["C"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/blocks.png",
+            "height": 8, "ascent": 7, "chars": ["D"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/shard.png",
+            "height": 8, "ascent": 7, "chars": ["E"]
         }
     ]
 }
