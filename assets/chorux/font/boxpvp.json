@@ -31,6 +31,10 @@
         {
             "type": "bitmap", "file": "chorux:font/boxpvp/plankton.png",
             "height": 8, "ascent": 7, "chars": [ "h" ]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/boxpvp/default.png",
+            "height": 8, "ascent": 7, "chars": [ "i" ]
         }
     ]
 }

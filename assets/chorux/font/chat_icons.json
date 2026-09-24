@@ -159,6 +159,14 @@
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/shard.png",
             "height": 8, "ascent": 7, "chars": ["E"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/msg_incoming.png",
+            "height": 8, "ascent": 7, "chars": ["y"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/msg_outgoing.png",
+            "height": 8, "ascent": 7, "chars": ["F"]
         }
     ]
 }
