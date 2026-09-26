@@ -1,0 +1,212 @@
+{
+    "providers": [
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/admin.png",
+            "height": 8, "ascent": 7, "chars": ["a"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/admin_short.png",
+            "height": 8, "ascent": 7, "chars": ["A"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/advent.png",
+            "height": 8, "ascent": 7, "chars": ["b"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/advent_short.png",
+            "height": 8, "ascent": 7, "chars": ["B"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/architect.png",
+            "height": 8, "ascent": 7, "chars": ["c"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/architect_short.png",
+            "height": 8, "ascent": 7, "chars": ["C"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/builder.png",
+            "height": 8, "ascent": 7, "chars": ["d"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/builder_short.png",
+            "height": 8, "ascent": 7, "chars": ["D"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/creator.png",
+            "height": 8, "ascent": 7, "chars": ["e"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/creator_short.png",
+            "height": 8, "ascent": 7, "chars": ["E"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/debugger.png",
+            "height": 8, "ascent": 7, "chars": ["f"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/debugger_short.png",
+            "height": 8, "ascent": 7, "chars": ["F"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/developer.png",
+            "height": 8, "ascent": 7, "chars": ["g"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/developer_short.png",
+            "height": 8, "ascent": 7, "chars": ["G"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/helper.png",
+            "height": 8, "ascent": 7, "chars": ["h"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/helper_short.png",
+            "height": 8, "ascent": 7, "chars": ["H"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/horizon.png",
+            "height": 8, "ascent": 7, "chars": ["i"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/horizon_short.png",
+            "height": 8, "ascent": 7, "chars": ["I"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/jrbuilder.png",
+            "height": 8, "ascent": 7, "chars": ["j"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/jrbuilder_short.png",
+            "height": 8, "ascent": 7, "chars": ["J"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/jrtester.png",
+            "height": 8, "ascent": 7, "chars": ["k"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/jrtester_short.png",
+            "height": 8, "ascent": 7, "chars": ["K"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/media.png",
+            "height": 8, "ascent": 7, "chars": ["l"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/media_short.png",
+            "height": 8, "ascent": 7, "chars": ["L"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/moder.png",
+            "height": 8, "ascent": 7, "chars": ["m"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/moder_short.png",
+            "height": 8, "ascent": 7, "chars": ["M"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/nocturne.png",
+            "height": 8, "ascent": 7, "chars": ["n"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/nocturne_short.png",
+            "height": 8, "ascent": 7, "chars": ["N"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/oblivion.png",
+            "height": 8, "ascent": 7, "chars": ["o"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/oblivion_short.png",
+            "height": 8, "ascent": 7, "chars": ["O"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/manager.png",
+            "height": 8, "ascent": 7, "chars": ["p"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/manager_short.png",
+            "height": 8, "ascent": 7, "chars": ["P"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/orfeus.png",
+            "height": 8, "ascent": 7, "chars": ["q"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/orfeus_short.png",
+            "height": 8, "ascent": 7, "chars": ["Q"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/tester.png",
+            "height": 8, "ascent": 7, "chars": ["r"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/tester_short.png",
+            "height": 8, "ascent": 7, "chars": ["R"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/shiro.png",
+            "height": 8, "ascent": 7, "chars": ["s"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/shiro_short.png",
+            "height": 8, "ascent": 7, "chars": ["S"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/smm.png",
+            "height": 8, "ascent": 7, "chars": ["t"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/smm_short.png",
+            "height": 8, "ascent": 7, "chars": ["T"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/support.png",
+            "height": 8, "ascent": 7, "chars": ["u"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/support_short.png",
+            "height": 8, "ascent": 7, "chars": ["U"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/vesper.png",
+            "height": 8, "ascent": 7, "chars": ["v"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/vesper_short.png",
+            "height": 8, "ascent": 7, "chars": ["V"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/warden.png",
+            "height": 8, "ascent": 7, "chars": ["w"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/warden_short.png",
+            "height": 8, "ascent": 7, "chars": ["W"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/vortex.png",
+            "height": 8, "ascent": 7, "chars": ["x"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/vortex_short.png",
+            "height": 8, "ascent": 7, "chars": ["X"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/player.png",
+            "height": 8, "ascent": 7, "chars": ["y"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/player_short.png",
+            "height": 8, "ascent": 7, "chars": ["Y"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/npc.png",
+            "height": 8, "ascent": 7, "chars": ["z"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_dark_aqua/npc2.png",
+            "height": 8, "ascent": 7, "chars": ["1"]
+        }
+    ]
+}

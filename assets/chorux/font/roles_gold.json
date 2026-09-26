@@ -1,0 +1,212 @@
+{
+    "providers": [
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/admin.png",
+            "height": 8, "ascent": 7, "chars": ["a"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/admin_short.png",
+            "height": 8, "ascent": 7, "chars": ["A"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/advent.png",
+            "height": 8, "ascent": 7, "chars": ["b"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/advent_short.png",
+            "height": 8, "ascent": 7, "chars": ["B"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/architect.png",
+            "height": 8, "ascent": 7, "chars": ["c"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/architect_short.png",
+            "height": 8, "ascent": 7, "chars": ["C"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/builder.png",
+            "height": 8, "ascent": 7, "chars": ["d"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/builder_short.png",
+            "height": 8, "ascent": 7, "chars": ["D"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/creator.png",
+            "height": 8, "ascent": 7, "chars": ["e"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/creator_short.png",
+            "height": 8, "ascent": 7, "chars": ["E"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/debugger.png",
+            "height": 8, "ascent": 7, "chars": ["f"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/debugger_short.png",
+            "height": 8, "ascent": 7, "chars": ["F"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/developer.png",
+            "height": 8, "ascent": 7, "chars": ["g"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/developer_short.png",
+            "height": 8, "ascent": 7, "chars": ["G"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/helper.png",
+            "height": 8, "ascent": 7, "chars": ["h"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/helper_short.png",
+            "height": 8, "ascent": 7, "chars": ["H"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/horizon.png",
+            "height": 8, "ascent": 7, "chars": ["i"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/horizon_short.png",
+            "height": 8, "ascent": 7, "chars": ["I"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/jrbuilder.png",
+            "height": 8, "ascent": 7, "chars": ["j"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/jrbuilder_short.png",
+            "height": 8, "ascent": 7, "chars": ["J"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/jrtester.png",
+            "height": 8, "ascent": 7, "chars": ["k"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/jrtester_short.png",
+            "height": 8, "ascent": 7, "chars": ["K"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/media.png",
+            "height": 8, "ascent": 7, "chars": ["l"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/media_short.png",
+            "height": 8, "ascent": 7, "chars": ["L"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/moder.png",
+            "height": 8, "ascent": 7, "chars": ["m"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/moder_short.png",
+            "height": 8, "ascent": 7, "chars": ["M"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/nocturne.png",
+            "height": 8, "ascent": 7, "chars": ["n"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/nocturne_short.png",
+            "height": 8, "ascent": 7, "chars": ["N"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/oblivion.png",
+            "height": 8, "ascent": 7, "chars": ["o"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/oblivion_short.png",
+            "height": 8, "ascent": 7, "chars": ["O"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/manager.png",
+            "height": 8, "ascent": 7, "chars": ["p"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/manager_short.png",
+            "height": 8, "ascent": 7, "chars": ["P"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/orfeus.png",
+            "height": 8, "ascent": 7, "chars": ["q"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/orfeus_short.png",
+            "height": 8, "ascent": 7, "chars": ["Q"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/tester.png",
+            "height": 8, "ascent": 7, "chars": ["r"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/tester_short.png",
+            "height": 8, "ascent": 7, "chars": ["R"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/shiro.png",
+            "height": 8, "ascent": 7, "chars": ["s"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/shiro_short.png",
+            "height": 8, "ascent": 7, "chars": ["S"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/smm.png",
+            "height": 8, "ascent": 7, "chars": ["t"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/smm_short.png",
+            "height": 8, "ascent": 7, "chars": ["T"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/support.png",
+            "height": 8, "ascent": 7, "chars": ["u"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/support_short.png",
+            "height": 8, "ascent": 7, "chars": ["U"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/vesper.png",
+            "height": 8, "ascent": 7, "chars": ["v"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/vesper_short.png",
+            "height": 8, "ascent": 7, "chars": ["V"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/warden.png",
+            "height": 8, "ascent": 7, "chars": ["w"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/warden_short.png",
+            "height": 8, "ascent": 7, "chars": ["W"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/vortex.png",
+            "height": 8, "ascent": 7, "chars": ["x"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/vortex_short.png",
+            "height": 8, "ascent": 7, "chars": ["X"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/player.png",
+            "height": 8, "ascent": 7, "chars": ["y"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/player_short.png",
+            "height": 8, "ascent": 7, "chars": ["Y"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/npc.png",
+            "height": 8, "ascent": 7, "chars": ["z"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/roles_gold/npc2.png",
+            "height": 8, "ascent": 7, "chars": ["1"]
+        }
+    ]
+}
