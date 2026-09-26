@@ -167,6 +167,30 @@
         {
             "type": "bitmap", "file": "chorux:font/chat_icons/msg_outgoing.png",
             "height": 8, "ascent": 7, "chars": ["F"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/logo.png",
+            "height": 8, "ascent": 7, "chars": ["G"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/dice.png",
+            "height": 8, "ascent": 7, "chars": ["H"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/event_beacon.png",
+            "height": 8, "ascent": 7, "chars": ["I"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/event_lootrain.png",
+            "height": 8, "ascent": 7, "chars": ["J"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/event_mystic.png",
+            "height": 8, "ascent": 7, "chars": ["K"]
+        },
+        {
+            "type": "bitmap", "file": "chorux:font/chat_icons/event_key.png",
+            "height": 8, "ascent": 7, "chars": ["L"]
         }
     ]
 }
