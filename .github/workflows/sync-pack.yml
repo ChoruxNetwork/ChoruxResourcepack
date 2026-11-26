@@ -1,0 +1,38 @@
+name: Sync resource pack
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: resourcepack-mirror
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Download and validate production pack
+        env:
+          PACK_URL: https://api.chorux.net/rp/ChoruxResources.zip
+        run: |
+          curl --fail --location --retry 3 --connect-timeout 20 --max-time 180 "$PACK_URL" -o ChoruxResources.zip
+          python3 - <<'PY'
+          import zipfile
+          with zipfile.ZipFile('ChoruxResources.zip') as pack:
+              assert 'pack.mcmeta' in pack.namelist(), 'Missing pack.mcmeta'
+              assert pack.testzip() is None, 'Corrupt ZIP'
+          PY
+          echo "PACK_SHA=$(sha256sum ChoruxResources.zip | cut -d' ' -f1)" >> "$GITHUB_ENV"
+      - name: Publish immutable release if changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          tag="pack-$PACK_SHA"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo 'Pack already mirrored.'
+            exit 0
+          fi
+          gh release create "$tag" ChoruxResources.zip --target main --title "Resource pack $PACK_SHA" --notes "Automatically mirrored from production. SHA-256: $PACK_SHA" --latest
